@@ -90,8 +90,8 @@ article ol {
   article ol {
     padding-top: .25em;
     padding-bottom: .25em;
-  }
 }
+
 
 @media only screen and (min-width: 38em) {
 
@@ -110,7 +110,6 @@ article ol {
 
   blockquote {
     margin: 0 auto;
-  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -131,7 +130,6 @@ article ol {
 
   article ol {
     padding-top: 1em;
-  }
 }
 
 @media only screen and (min-width: 90em) {
@@ -143,4 +141,3 @@ article ol {
   article {
     margin-left: 15em;
   }
-}
